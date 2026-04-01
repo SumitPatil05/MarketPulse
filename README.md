@@ -1,4 +1,4 @@
-# Market-Aware Business Forecasting System
+# MarketPulse: Market-Aware Business Forecasting System
 
 An end-to-end, interview-ready analytics project to **forecast brand sales** and track **market share** using market context (category sales + category growth) and recent brand sales trends.
 
